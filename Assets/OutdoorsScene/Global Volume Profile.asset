@@ -15,7 +15,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 12.26
+    m_Value: 0.74
   tintColor:
     m_OverrideState: 1
     m_Value: {r: 0.9667241, g: 1, b: 0.9415095, a: 1}
@@ -94,10 +94,10 @@ MonoBehaviour:
     m_Value: {fileID: 0}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.428
+    m_Value: 0.094
   m_MaxSamples:
     m_OverrideState: 1
-    m_Value: 18
+    m_Value: 16
 --- !u!114 &-2576292623775712947
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -116,7 +116,7 @@ MonoBehaviour:
     m_Value: -100
   tint:
     m_OverrideState: 1
-    m_Value: 85
+    m_Value: 89
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -149,13 +149,13 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.53
+    m_Value: 0.3
   xMultiplier:
     m_OverrideState: 1
     m_Value: 1
   yMultiplier:
     m_OverrideState: 1
-    m_Value: 0.22
+    m_Value: 0.122
   center:
     m_OverrideState: 1
     m_Value: {x: 0.5, y: 0.5}

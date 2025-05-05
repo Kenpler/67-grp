@@ -29,7 +29,7 @@ public class ConsoleManager : MonoBehaviour
         }
         if (!foundPage)
         {
-            currentPageText.text = "This page doesn't exist.";
+            currentPageText.text = "⚠️ Yasaklı veya geçersiz bir sayfa girdiniz. Ana ekrana dönmek için ana sayfa yazın.";
         }
         inputField.ActivateInputField();
         inputField.text = "";

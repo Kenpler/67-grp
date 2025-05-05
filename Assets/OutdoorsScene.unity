@@ -137,10 +137,120 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pageList:
-  - command: Title
-    page: asfadga
-  - command: List
-    page: 555555
+  - command: ana sayfa
+    page: "> > > Kudret Mukadder sisteme giri\u015F yapt\u0131\r\n> > > \\[Tarih/Zaman]:
+      05.05.2025 14:32:00 EEST\r\nHo\u015F\_geldin Kudret Mukadder.\r\n\nBu terminal
+      Zaman K\xFCt\xFCphanesi\u2019nin ana d\xFC\u011F\xFCm\xFCne do\u011Frudan eri\u015Fim
+      sa\u011Flar.\r\nA\u015Fa\u011F\u0131daki ki\u015Fisel ar\u015Fiv bilgileri
+      senin ve Bedia\u2019n\u0131n zaman \xE7izelgesi ile senkronize edilmi\u015Ftir.\r\n\r\n##
+      K\u0130\u015E\u0130SEL ZAMAN AR\u015E\u0130V\u0130\r\n\r\nKudret\_Mukadder
+      (01.01.1980)\r\n\u2022 Ya\u015Fam\_Sayac\u0131........: 16\u202F561\_g\xFCn\r\r                                                       
+      \u2022 Ar\u015Fiv Kimli\u011Fi.......: KM\u201119800101\u2011\u03B1\r\n\r\nBedia\_Mukadder
+      (13.03.1983)\r\n\u2022 Ya\u015Fam\_Sayac\u0131........: 15\u202F394\_g\xFCn\r\r                                                        
+      \u2022 Ar\u015Fiv Kimli\u011Fi.......: BM\u201119830313\u2011\u03B1\r\n\r\nKomutlar:\r\r                            
+      ana sayfa  \u2192 Bu ekrana geri d\xF6n\r"
+  - command: 01.01.1980
+    page: "Page_1980-01-01.txt\n\nSelam.\L\L\u015Eu an bu sayfadaysan her \u015Feyin
+      ba\u015F\u0131ndas\u0131n demektir.  \LHay\u0131r,  1980 do\u011Fru bir do\u011Fum
+      tarihi de\u011Fil. Bundan bahsetmiyorum.  \LO zamanlar biz hen\xFCz yoktuk. 
+      \L\LSana b\u0131rakaca\u011F\u0131m notlar\u0131 dikkatli takip et.\nba\u015Flang\u0131\xE7
+      yazarsan\_\n\nAnnenin g\xFCnl\xFC\u011F\xFCnde tan\u0131\u015Ft\u0131\u011F\u0131m\u0131z
+      g\xFCnle ilgili sayfa o kadar dokunakl\u0131 ki hepsinin sistemde kay\u0131tl\u0131
+      tutuluyor olmas\u0131 zaman\u0131n b\xFCy\xFCk inceli\u011Fi.\_ Okumak istiyorsan.\n\nB_21.04.2002\nB_\nB_11.02.2003\n...\nBaban"
+  - command: 21.04.2002
+    page: "G\xDCNL\xDCK \u2013 21 Nisan 2002\L\LBug\xFCn \xE7ok ilgin\xE7 bir \u015Fey
+      oldu. Yani biriyle tan\u0131\u015Ft\u0131m.\LK\xFCt\xFCphane \xE7\u0131k\u0131\u015F\u0131nda
+      yak\u0131\u015F\u0131kl\u0131 biriydi.  \u0130smimi sordu ve benimle ilgilendi.
+      Ben ad\u0131m\u0131n Bedia oldu\u011Funu s\xF6yleyince o da Bedi dedi. San\u0131r\u0131m
+      dalga ge\xE7iyordu emin de\u011Filim. Neden ger\xE7ek ismini s\xF6ylemedi ki.\_
+      Belki de ger\xE7ek ismi budur ama s\xF6ylerken hafif bir teredd\xFCt etti .\_\LAma
+      ne \xF6nemi var ki? G\xFCzel bir g\xFCn ge\xE7irdik ve bir dahakine\_ kar\u015F\u0131la\u015F\u0131rsak
+      ger\xE7ek ismini s\xF6yler umar\u0131m.\_ Kar\u015F\u0131la\u015Fmay\u0131
+      o kadar isterim ki!\L\L\xC7ok garipti. \u0130lk bak\u0131\u015Fta yabanc\u0131
+      gibi, ama g\xF6zleri sanki beni \xE7oktan tan\u0131yormu\u015F gibiydi.  \LKonu\u015Fmas\u0131
+      yava\u015Ft\u0131, d\xFC\u015F\xFCnerek \u2014 ama i\xE7imi biliyor gibiydi. 
+      \L\u015Eimdi onu d\xFC\u015F\xFCnmeden duram\u0131yorum. Fazla m\u0131 kap\u0131ld\u0131m
+      bilmiyorum.  \LAma yan\u0131nda zaman farkl\u0131 ak\u0131yordu sanki.\L\LHakk\u0131nda
+      hi\xE7bir \u015Fey bilmiyorum.  \LAma tuhaf bir \u015Fekilde\u2026 ona dair
+      bir \u015Feyler i\xE7imde yer etti.  \L\LBedia"
+  - command: 21.04.2002
+    page: "G\xDCNL\xDCK \u2013 21 Nisan 2002\L\LBug\xFCn \xE7ok ilgin\xE7 bir \u015Fey
+      oldu. Yani biriyle tan\u0131\u015Ft\u0131m.\LK\xFCt\xFCphane \xE7\u0131k\u0131\u015F\u0131nda
+      yak\u0131\u015F\u0131kl\u0131 biriydi.  \u0130smimi sordu ve benimle ilgilendi.
+      Ben ad\u0131m\u0131n Bedia oldu\u011Funu s\xF6yleyince o da Bedi dedi. San\u0131r\u0131m
+      dalga ge\xE7iyordu emin de\u011Filim. Neden ger\xE7ek ismini s\xF6ylemedi ki.\_
+      Belki de ger\xE7ek ismi budur ama s\xF6ylerken hafif bir teredd\xFCt etti .\_\LAma
+      ne \xF6nemi var ki? G\xFCzel bir g\xFCn ge\xE7irdik ve bir dahakine\_ kar\u015F\u0131la\u015F\u0131rsak
+      ger\xE7ek ismini s\xF6yler umar\u0131m.\_ Kar\u015F\u0131la\u015Fmay\u0131
+      o kadar isterim ki!\L\L\xC7ok garipti. \u0130lk bak\u0131\u015Fta yabanc\u0131
+      gibi, ama g\xF6zleri sanki beni \xE7oktan tan\u0131yormu\u015F gibiydi.  \LKonu\u015Fmas\u0131
+      yava\u015Ft\u0131, d\xFC\u015F\xFCnerek \u2014 ama i\xE7imi biliyor gibiydi. 
+      \L\u015Eimdi onu d\xFC\u015F\xFCnmeden duram\u0131yorum. Fazla m\u0131 kap\u0131ld\u0131m
+      bilmiyorum.  \LAma yan\u0131nda zaman farkl\u0131 ak\u0131yordu sanki.\L\LHakk\u0131nda
+      hi\xE7bir \u015Fey bilmiyorum.  \LAma tuhaf bir \u015Fekilde\u2026 ona dair
+      bir \u015Feyler i\xE7imde yer etti.  \L\LBedia"
+  - command: 13.03.1983
+    page: "DOSYA: YET\u0130\u015ET\u0130RME YURDU KAYIT NO: #01172\nTAR\u0130H: 13
+      Mart 1983\nYER: ANKARA SOSYAL H\u0130ZMETLER VE \xC7OCUK YET\u0130\u015ET\u0130RME
+      Kurumu / Bebek Kabul Birimi\n\n\u2022 \u0130sim: Bedia Ezel\n\u2022 Cinsiyet:
+      k\u0131z/ \xC7ift kay\u0131tlama hatas\u0131\n\u2022 Ebeveyn Bilgisi: Kay\u0131ts\u0131z\n\u2022
+      Not: \u201CB\u0131rakan ki\u015Fi y\xFCz\xFCn\xFC g\xF6stermedi. Sadece Tedirgin
+      g\xF6r\xFCn\xFCyordu.'do\u011Fru yere gelecektir' dedi.\u201D \xDCzerinde Bedia
+      Ezel yazan bir kart bulundu. Sistemde bu isimle e\u015Fle\u015Fen kimse yok.
+      Bebe\u011Fin ismi bu \u015Fekilde belirlendi.\n\nEK: Bebek sa\u011Fl\u0131kl\u0131.
+      Parmak izi al\u0131namad\u0131 \u2013 hen\xFCz sistem tan\u0131m\u0131 yok.\n\n[S\u0130STEM
+      UYARISI]:\nBu dosyada zaman izi tespit edildi.\nZaman manip\xFClasyonu belirtileri:
+      d\xFC\u015F\xFCk d\xFCzeyli.\n\u0130zleyen ajan dosyay\u0131 yeniden s\u0131n\u0131fland\u0131rmal\u0131."
+  - command: 29.06.2003
+    page: "KAYIT TAR\u0130H\u0130: 29 Haziran 2003  \LKONUM: Marmara Devlet Hastanesi 
+      \LOLAY: Deprem \u2013 6.8 Mw  \LSAAT: 04:11\L\L\_Durum \xD6zeti:  \L\u2022
+      Hastanenin do\u011Fum kat\u0131 tamamen \xE7\xF6kt\xFC.  \L\u2022 2 hem\u015Fire
+      1 anne ve 9 yeni do\u011Fan kay\u0131p.  \L\u2022 Kay\u0131t sistemleri zarar
+      g\xF6rd\xFC.  \L\u2022 Bedia Ezel'in do\u011Fum sonras\u0131 takibi bulunam\u0131yor.\L\nAnomali: 
+      \LDeprem s\u0131ras\u0131nda bir birey  sistem d\u0131\u015F\u0131na \xE7\u0131km\u0131\u015F. 
+      \LZaman-mekan aral\u0131\u011F\u0131nda ge\xE7ici \u201Cparalel\u201D \xE7ak\u0131\u015Fma
+      g\xF6zlemlendi.\n\n\n"
+  - command: 11.02.2003
+    page: "G\xDCNL\xDCK \u2013 11 \u015Eubat 2003  O g\xFCnden beri Bedi\u2019yi
+      hi\xE7bir yerde bulam\u0131yorum.  Yer yar\u0131ld\u0131 da i\xE7ine girdi
+      sanki.  \LHi\xE7bir iz, hi\xE7bir ses.  Kesin ba\u015F\u0131na bir \u015Fey
+      geldi.  \LYoksa o b\xF6yle b\u0131rak\u0131p gidecek biri de\u011Fildi.  Ona
+      g\xFCvenmi\u015Ftim. Ger\xE7ekten.\L\LBug\xFCn hastaneye kontrole gittim. 
+      Her \u015Fey normalmi\u015F.  Do\u011Fum i\xE7in randevu tarihimi verdiler: 
+      \L29 Haziran 2003.\L\LAma i\u015Fin garibi \u015Fu...  Bedi, bundan aylar \xF6nce
+      hi\xE7 yeri yokken \u201C29 Haziran\u2019da yan\u0131nda olaca\u011F\u0131m\u201D
+      demi\u015Fti. Nerden \xE7\u0131kt\u0131 \u015Fimdi bu?  O g\xFCn \u201Cne olacak
+      ki o g\xFCn?\u201D diye sordu\u011Fumda g\xFClm\xFC\u015Ft\xFC.  Sonra \u201Cbo\u015F
+      ver, her g\xFCn yan\u0131nda olaca\u011F\u0131m zaten\u201D demi\u015Fti. 
+      O an \xE7ok sa\xE7ma gelmi\u015Fti ama \u015Fimdi...  Bu denk geli\u015F beni
+      korkutuyor.\L\LYan\u0131mda olsa,  \L\u201CBak do\u011Fum tarihi  o uydurdu\u011Fun\_tarihe
+      denk geldi\u201D derdim.  \LBeraber g\xFClerdik belki.  \LAma yok. Hani her
+      g\xFCn yan\u0131mda olacakt\u0131n?\L\LYaln\u0131z olmak zor.  \LBen asl\u0131nda
+      al\u0131\u015F\u0131\u011F\u0131m.  \LAma... Bedi, bile isteye b\u0131rakacak
+      biri de\u011Fildi. G\xFCvenmi\u015Ftim. Yoksa \xF6yle miydi?"
+  - command: DEMO
+    page: "Zaman K\xFCt\xFCphanesi\u2019nin bu ilk demosunu deneyimledi\u011Fin i\xE7in
+      te\u015Fekk\xFCrler, Kudret.\n\nBu yolculuk burada sona eriyor, ancak s\u0131radaki
+      s\xFCr\xFCmde hem hik\xE2ye hem de bulmacalar \xE7ok daha derinle\u015Fecek.\n\nOynad\u0131\u011F\u0131n
+      i\xE7in te\u015Fekk\xFCrler"
+  - command: 11.02.2003
+    page: "G\xDCNL\xDCK \u2013 11 \u015Eubat 2003  O g\xFCnden beri Bedi\u2019yi
+      hi\xE7bir yerde bulam\u0131yorum.  Yer yar\u0131ld\u0131 da i\xE7ine girdi
+      sanki.  \LHi\xE7bir iz, hi\xE7bir ses.  Kesin ba\u015F\u0131na bir \u015Fey
+      geldi.  \LYoksa o b\xF6yle b\u0131rak\u0131p gidecek biri de\u011Fildi.  Ona
+      g\xFCvenmi\u015Ftim. Ger\xE7ekten.\L\LBug\xFCn hastaneye kontrole gittim. 
+      Her \u015Fey normalmi\u015F.  Do\u011Fum i\xE7in randevu tarihimi verdiler: 
+      \L29 Haziran 2003.\L\LAma i\u015Fin garibi \u015Fu...  Bedi, bundan aylar \xF6nce
+      hi\xE7 yeri yokken \u201C29 Haziran\u2019da yan\u0131nda olaca\u011F\u0131m\u201D
+      demi\u015Fti. Nerden \xE7\u0131kt\u0131 \u015Fimdi bu?  O g\xFCn \u201Cne olacak
+      ki o g\xFCn?\u201D diye sordu\u011Fumda g\xFClm\xFC\u015Ft\xFC.  Sonra \u201Cbo\u015F
+      ver, her g\xFCn yan\u0131nda olaca\u011F\u0131m zaten\u201D demi\u015Fti. 
+      O an \xE7ok sa\xE7ma gelmi\u015Fti ama \u015Fimdi...  Bu denk geli\u015F beni
+      korkutuyor.\L\LYan\u0131mda olsa,  \L\u201CBak do\u011Fum tarihi  o uydurdu\u011Fun\_tarihe
+      denk geldi\u201D derdim.  \LBeraber g\xFClerdik belki.  \LAma yok. Hani her
+      g\xFCn yan\u0131mda olacakt\u0131n?\L\LYaln\u0131z olmak zor.  \LBen asl\u0131nda
+      al\u0131\u015F\u0131\u011F\u0131m.  \LAma... Bedi, bile isteye b\u0131rakacak
+      biri de\u011Fildi. G\xFCvenmi\u015Ftim. Yoksa \xF6yle miydi?"
   inputField: {fileID: 558594790}
   currentPageText: {fileID: 1620765143}
 --- !u!4 &6049408 stripped
@@ -910,7 +1020,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1952803555}
   - {fileID: 640928618}
@@ -1035,7 +1145,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!1 &421233959
 GameObject:
@@ -1138,7 +1248,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!1 &432432459
 GameObject:
@@ -1353,17 +1463,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 558594788}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 2085}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 63}
+  m_LocalScale: {x: 8, y: 8, z: 8}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 371783087}
   m_Father: {fileID: 421233960}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6153, y: -5355}
+  m_AnchoredPosition: {x: -125799, y: -660}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &558594790
@@ -1493,7 +1603,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -1660,8 +1770,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1678,13 +1788,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -2550,7 +2660,8 @@ MonoBehaviour:
   instructionText: {fileID: 112389529}
   inputField: {fileID: 1006140570}
   correctPhrase: Kudret Mukadder
-  fadeDuration: 4
+  fadeDuration: 2.3
+  nextInputField: {fileID: 558594790}
 --- !u!4 &1046398792
 Transform:
   m_ObjectHideFlags: 0
@@ -3005,21 +3116,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "You're on the right track \u2014 capturing a World Space canvas with a
-    camera and rendering it to a texture is a solid method for achieving a stylized
-    \"console\" look. This gives you full flexibility to post-process the UI with
-    effects like CRT filters, scanlines, distortion, or color grading.You're on the
-    right track \u2014 capturing a World Space canvas with a camera and rendering
-    it to a texture is a solid method for achieving a stylized \"console\" look.
-    This gives you full flexibility to post-process the UI with effects like CRT
-    filters, scanlines, distortion, or color grading.You're on the right track \u2014
-    capturing a World Space canvas with a camera and rendering it to a texture is
-    a solid method for achieving a stylized \"console\" look. This gives you full
-    flexibility to post-process the UI with effects like CRT filters, scanlines,
-    distortion, or color grading."
+  m_text: "> > > Kudret Mukadder sisteme giri\u015F yapt\u0131\r\n> > > \\[Tarih/Zaman]:
+    05.05.2025 14:32:00 EEST\r\nHo\u015F\_geldin Kudret Mukadder.\r\n\nBu terminal
+    Zaman K\xFCt\xFCphanesi\u2019nin ana d\xFC\u011F\xFCm\xFCne do\u011Frudan eri\u015Fim
+    sa\u011Flar.\r\nA\u015Fa\u011F\u0131daki ki\u015Fisel ar\u015Fiv bilgileri senin
+    ve Bedia\u2019n\u0131n zaman \xE7izelgesi ile senkronize edilmi\u015Ftir.\r\n\r\n##
+    K\u0130\u015E\u0130SEL ZAMAN AR\u015E\u0130V\u0130\r\n\r\nKudret\_Mukadder (01.01.1980)\r\n\u2022
+    Ya\u015Fam\_Sayac\u0131........: 16\u202F561\_g\xFCn\r\r                                                       
+    \u2022 Ar\u015Fiv Kimli\u011Fi.......: KM\u201119800101\u2011\u03B1\r\n\r\nBedia\_Mukadder
+    (13.03.1983)\r\n\u2022 Ya\u015Fam\_Sayac\u0131........: 15\u202F394\_g\xFCn\r\r                                                        
+    \u2022 Ar\u015Fiv Kimli\u011Fi.......: BM\u201119830313\u2011\u03B1\r\n\r\nKomutlar:\r\r                            
+    ana sayfa  \u2192 Bu ekrana geri d\xF6n\r"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3043,10 +3153,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.55
-  m_fontSizeBase: 36
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -4072,7 +4182,7 @@ Transform:
   m_GameObject: {fileID: 2025143749}
   serializedVersion: 2
   m_LocalRotation: {x: -0.70592356, y: -0, z: -0, w: 0.70828813}
-  m_LocalPosition: {x: -47.7, y: 0, z: 423.1589}
+  m_LocalPosition: {x: -0, y: 0, z: 423.1589}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4324,8 +4434,8 @@ SceneRoots:
   - {fileID: 1823688467}
   - {fileID: 157207114}
   - {fileID: 432432461}
-  - {fileID: 396543610}
   - {fileID: 552493531}
+  - {fileID: 396543610}
   - {fileID: 2013410475}
   - {fileID: 739234175}
   - {fileID: 2055550644}

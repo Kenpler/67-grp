@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.EventSystems;
 
 public class GameIntro : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class GameIntro : MonoBehaviour
     [SerializeField] private TMP_InputField inputField;
     [SerializeField] private string correctPhrase = "begin";
     [SerializeField] private float fadeDuration = 2f;
+    [SerializeField] private TMP_InputField nextInputField;
 
     private void Start()
     {
@@ -53,6 +55,10 @@ float elapsed = 0f;
 
         elapsed += Time.deltaTime;
         yield return null;
+
+
     }
+    yield return new WaitForEndOfFrame();
+    EventSystem.current.SetSelectedGameObject(nextInputField.gameObject);
     }
 }
