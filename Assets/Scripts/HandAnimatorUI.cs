@@ -9,7 +9,10 @@ public class HandAnimatorUI : MonoBehaviour
     [SerializeField] private float pressedYOffset = -30f;
     [SerializeField] private float transitionSpeed = 5f;
     [SerializeField] private float returnDelay = 0.3f;
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip keyboardSound;
 
+    private bool soundPlayed;
     private Vector2 originalPos;
     private float time;
     private float lastKeyTime;
@@ -23,18 +26,25 @@ public class HandAnimatorUI : MonoBehaviour
 
     private void Update()
     {
-        if (Input.anyKeyDown)
-        {
-            isPressed = true;
-            lastKeyTime = Time.time;
-        }
+    if (Input.inputString.Length > 0)
+    {
+        isPressed = true;
+        lastKeyTime = Time.time;
 
-        if (isPressed && Time.time - lastKeyTime > returnDelay)
+        if (!soundPlayed && keyboardSound != null && audioSource != null)
         {
-            isPressed = false;
+            audioSource.PlayOneShot(keyboardSound);
+            soundPlayed = true;
         }
+    }
 
-        AnimateHand();
+    if (isPressed && Time.time - lastKeyTime > returnDelay)
+    {
+        isPressed = false;
+        soundPlayed = false; // reset so next key press can play sound again
+    }
+
+    AnimateHand();
     }
 
     private void AnimateHand()
