@@ -906,11 +906,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0f54f7b071159a54b85d2b37dd74dbb8, type: 3}
-  m_Resource: {fileID: 8300000, guid: 0f54f7b071159a54b85d2b37dd74dbb8, type: 3}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
+  m_Volume: 0.208
+  m_Pitch: 1.57
   Loop: 0
   Mute: 0
   Spatialize: 0
@@ -1649,7 +1649,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc6f3392122574f829a81081fbd8d8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.551635
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc6f3392122574f829a81081fbd8d8, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2372,7 +2372,7 @@ MonoBehaviour:
   transitionSpeed: 2
   returnDelay: 0.3
   audioSource: {fileID: 317417569}
-  keyboardSound: {fileID: 8300000, guid: 7d563f6d1ab1f9a4fa4f745ba9564396, type: 3}
+  keyboardSound: {fileID: 8300000, guid: f0a383e69646f1a4d8b96fcd9b8ecacf, type: 3}
 --- !u!1 &1006140569
 GameObject:
   m_ObjectHideFlags: 0
@@ -2573,7 +2573,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc6f3392122574f829a81081fbd8d8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 41.481636
+      value: 41.93
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc6f3392122574f829a81081fbd8d8, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2660,7 +2660,7 @@ MonoBehaviour:
   instructionText: {fileID: 112389529}
   inputField: {fileID: 1006140570}
   correctPhrase: Kudret Mukadder
-  fadeDuration: 2.3
+  fadeDuration: 1.8
   nextInputField: {fileID: 558594790}
 --- !u!4 &1046398792
 Transform:
@@ -3792,7 +3792,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc6f3392122574f829a81081fbd8d8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 28.501635
+      value: 28.95
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc6f3392122574f829a81081fbd8d8, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3925,7 +3925,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Enter text...
+  m_text: "Gitmek istedi\u011Finiz tarihi yaz\u0131n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3952,13 +3952,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 2
+  m_fontStyle: 3
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
